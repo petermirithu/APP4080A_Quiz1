@@ -1,1 +1,23 @@
 Hello, Git!
+***********************************************************************
+Git Commands
+***********************************************************************
+1. git init: Initializes a new Git repository in the current directory.
+
+2. git clone [repository_url]: Copies a remote Git repository to your local machine.
+
+3. git add [file(s)]: Stages changes for commit. You can specify individual files or use "." to stage all changes.
+
+4. git commit -m "[commit message]": Creates a new commit with the staged changes and a descriptive message.
+
+5. git status: Shows the current status of your working directory, including staged and unstaged changes.
+
+6. git diff: Displays the differences between the working directory and the most recent commit.
+
+7. git pull: Fetches changes from a remote repository and merges them into the current branch.
+
+8. git push: Sends your local commits to a remote repository.
+
+9. git branch: Lists all branches in the repository and indicates the current branch with an asterisk.
+
+10. git checkout [branch_name]: Switches to the specified branch.
