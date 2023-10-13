@@ -2,7 +2,7 @@ Hello, Git!
 ***********************************************************************
 Git Commands
 ***********************************************************************
-1. git init: Initializes a new Git repository in the current directory.
+1. git init: This function creates a new Git repository in the current directory.
 
 2. git clone [repository_url]: Copies a remote Git repository to your local machine.
 
